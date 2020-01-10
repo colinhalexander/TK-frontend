@@ -1,15 +1,6 @@
 # tk-frontend
 
 
-
-
-
-
-
-
-
-
-
 ## Project setup
 ```
 npm install
